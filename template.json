@@ -3,68 +3,12 @@
 "contact": "https://discord.gg/vtubersplace",
 "templates": [
 {
-"name": "pat",
-"sources": [
-"http://template.vtubers.place/api/Image/80"
-],
-"x": 357,
-"y": 856,
-"frameWidth": null,
-"frameHeight": null,
-"frameRate": null,
-"frameCount": null,
-"startTime": null,
-"looping": null
-},
-{
 "name": "holopro",
 "sources": [
 "http://template.vtubers.place/api/Image/81"
 ],
 "x": 329,
 "y": 889,
-"frameWidth": null,
-"frameHeight": null,
-"frameRate": null,
-"frameCount": null,
-"startTime": null,
-"looping": null
-},
-{
-"name": "vshojo",
-"sources": [
-"http://template.vtubers.place/api/Image/83"
-],
-"x": 366,
-"y": 926,
-"frameWidth": null,
-"frameHeight": null,
-"frameRate": null,
-"frameCount": null,
-"startTime": null,
-"looping": null
-},
-{
-"name": "nijisanji",
-"sources": [
-"http://template.vtubers.place/api/Image/85"
-],
-"x": 313,
-"y": 939,
-"frameWidth": null,
-"frameHeight": null,
-"frameRate": null,
-"frameCount": null,
-"startTime": null,
-"looping": null
-},
-{
-"name": "neuro fumo",
-"sources": [
-"http://template.vtubers.place/api/Image/87"
-],
-"x": 410,
-"y": 855,
 "frameWidth": null,
 "frameHeight": null,
 "frameRate": null,
