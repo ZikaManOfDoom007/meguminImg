@@ -2,6 +2,20 @@
 "faction": "Vtubers Place",
 "contact": "https://discord.gg/vtubersplace",
 "templates": [
+{
+"name": "holopro",
+"sources": [
+"https://github.com/ZikaManOfDoom007/meguminImg/raw/main/meguminOverlay.png"
+],
+"x": 329,
+"y": 889,
+"frameWidth": null,
+"frameHeight": null,
+"frameRate": null,
+"frameCount": null,
+"startTime": null,
+"looping": null
+}
 ],
 "whitelist": null
 }
