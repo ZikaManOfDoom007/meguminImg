@@ -1,0 +1,21 @@
+{
+"faction": "Vtubers Place",
+"contact": "https://discord.gg/vtubersplace",
+"templates": [
+{
+"name": "holopro",
+"sources": [
+"http://template.vtubers.place/api/Image/81"
+],
+"x": 329,
+"y": 889,
+"frameWidth": null,
+"frameHeight": null,
+"frameRate": null,
+"frameCount": null,
+"startTime": null,
+"looping": null
+}
+],
+"whitelist": null
+}
